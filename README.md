@@ -1,1 +1,2 @@
-# Class-39-reset-button
+# C39RV_SpeedRacer_ReferenceCode
+Teacher Reference code
